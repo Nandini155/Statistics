@@ -1,0 +1,4 @@
+PaymentMode,East,North,South,West
+Cash,11,8,8,5
+Credit Card,3,9,10,8
+Online Payment,3,8,19,8
