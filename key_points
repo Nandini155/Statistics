@@ -1,0 +1,15 @@
+Scenario	Test
+Compare mean of one group to a known value (population σ known or large sample size)	- One-Sample z-test
+Compare mean of one group to a known value (population σ unknown)- 	One-Sample t-test
+Compare means of two independent groups (large sample sizes or known σ)- 	Two-Sample z-test
+Compare means of two independent groups (small sample sizes, σ unknown)-	Independent (Two-Sample) t-test
+Compare means of two related groups-	Paired t-test
+Compare means of 3+ groups-	ANOVA
+Test association between two categorical variables-	Chi-Square Test of Independence
+Compare observed vs. expected proportions-	Chi-Square Goodness of Fit
+Association between two continuous variables-	Correlation Test
+Predict continuous variable from one predictor- Simple Linear Regression
+Predict continuous variable from multiple predictors-	Multiple Linear Regression
+Test equality of variances across groups-	Levene’s or Bartlett’s Test
+Non-parametric alternative for 2 independent groups- Mann-Whitney U Test
+Non-parametric alternative for 3+ groups-	Kruskal-Wallis Test
